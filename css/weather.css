@@ -1,40 +1,13 @@
 
-.red {
-        background-color: red;
-        padding: 20px 0px;
-		text-align: center;
-		margin-bottom: 4px;
-}
-.blue {
-        background-color: blue;
-        padding: 20px 0px;
-		text-align: center;
-		margin-bottom: 4px;
-
+.col button {
+    margin: 0 auto;
+    text-align: center;
+    background-color: #0000b5;
+    color: white;
+    border: 3px solid white;
 }
 
-
-.green {
-        background-color: green;
-        padding: 20px 0px;
-		text-align: center;
-		margin-bottom: 4px;
-
-}
-
-
-.aqua {
-        background-color: aqua;
-        padding: 20px 0px;
-		text-align: center;
-		margin-bottom: 4px;
-
-}
-
-.orange {
-        background-color: orange;
-        padding: 20px 0px;
-		text-align: center;
-		margin-bottom: 4px;
-
+.col {
+    background-color: #5a7aff;
+    color: white;
 }
